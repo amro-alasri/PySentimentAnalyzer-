@@ -24,5 +24,10 @@ A Python tool for effortless sentiment analysis. PySentimentAnalyzer employs NLP
 
 ```bash
 python script_name.py --url https://example.com/article
+```
+
+### Extract information and sentiment from a FILE
+
+```bash
 python script_name.py --file path/to/your/text/file.txt
 ```
